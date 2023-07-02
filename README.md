@@ -13,3 +13,6 @@ https://www.youtube.com/watch?v=QLEmEl7H1Ks
 
 Taught me how to sort a dictionary by value
 https://www.freecodecamp.org/news/sort-dictionary-by-value-in-python/
+
+Taught me how to convert an index into an integer
+https://stackoverflow.com/questions/34421024/transforming-type-int64index-into-an-integer-index-in-python
