@@ -2,7 +2,7 @@
 
 # Overview
 
-Data analysis is an area of computer science that interests me. This repository teaches me more about how to perform an analysis on pre-existing data by letting me practice analyzing a simple data set. The knowledge that I gain from this practice will benefit my future software career, by letting me gain more valuable experience with data analysis.  
+Data analysis is an area of computer science that interests me. This repository teaches me more about how to perform an analysis on pre-existing data, by letting me practice analyzing a simple data set. The knowledge that I gain from this practice will benefit my future software career, by letting me gain more valuable experience with data analysis.  
 
 The data set I am analyzing, lists the number of sunlight hours certain cities across the globe receive each year. Each row in the data set lists the country name, the city name, how many sunlight hours the city receives each month, and the total number of hours that city receives each year (each of the months added up).
 
@@ -11,9 +11,7 @@ https://www.kaggle.com/datasets/bilalwaseer/sunshine-hours-for-cities-around-the
 
 Besides practicing my data analysis skills, my main purpose for writing this software was to analyze how sunlight changes in global cities throughout the year. I was really interested in seeing how the amount of sunlight hours a city receives changes based off of its position on the Earth, and the season. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the data set, the questions and answers, the code running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+Software Demo Video https://www.youtube.com/watch?v=EPCKv3D-Qw4
 
 # Data Analysis Results
 
@@ -52,6 +50,8 @@ The WINTER Solstice (December)
 - Highest: Upington, South Africa (367 hrs)
 - Lowest: Dikson, Russia (0 hrs)
 
+[Solution](SeasonalComparison.py)
+
 # Development Environment
 
 I used VSCode to write and edit my code. I used GitHub to upload my code to a public repository.
@@ -63,6 +63,8 @@ For one file, I used the R programming language, so that I could draw a bar grap
 Kaggle https://www.kaggle.com/datasets/bilalwaseer/sunshine-hours-for-cities-around-the-world 
 
 W3Schools https://www.w3schools.com/r/r_stat_data_set.asp 
+
+Overview of Pandas https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html
 
 Geeks For Geeks taught me how to install pandas
 https://www.geeksforgeeks.org/how-to-install-python-pandas-on-windows-and-linux/ 
